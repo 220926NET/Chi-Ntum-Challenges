@@ -1,0 +1,15 @@
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\SweetSaltyChallenge.exe
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\SweetSaltyChallenge.deps.json
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\SweetSaltyChallenge.runtimeconfig.json
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\SweetSaltyChallenge.dll
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\bin\Debug\net6.0\SweetSaltyChallenge.pdb
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.csproj.AssemblyReference.cache
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.AssemblyInfoInputs.cache
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.AssemblyInfo.cs
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.dll
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\refint\SweetSaltyChallenge.dll
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.pdb
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\SweetSaltyChallenge.genruntimeconfig.cache
+C:\Users\Chi Ntum\documents\revature\Chi-Ntum-Challenges\SweetSaltyChallenge\obj\Debug\net6.0\ref\SweetSaltyChallenge.dll
